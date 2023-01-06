@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Conditional", "03. Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Iteration", "04. Iteration\04. Iteration.csproj", "{5C262089-79D7-4229-8033-6C69AD1473E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Method", "05. Method\05. Method.csproj", "{933A19C0-0E30-4FFD-B641-6216512E61BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5C262089-79D7-4229-8033-6C69AD1473E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C262089-79D7-4229-8033-6C69AD1473E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C262089-79D7-4229-8033-6C69AD1473E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933A19C0-0E30-4FFD-B641-6216512E61BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933A19C0-0E30-4FFD-B641-6216512E61BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933A19C0-0E30-4FFD-B641-6216512E61BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933A19C0-0E30-4FFD-B641-6216512E61BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
