@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Iteration", "04. Iterat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Method", "05. Method\05. Method.csproj", "{933A19C0-0E30-4FFD-B641-6216512E61BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefinedType", "06. UserDefinedType\06. UserDefinedType.csproj", "{37FCB42C-8313-4934-B45D-116E2BFA77A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. UserDefinedType", "06. UserDefinedType\06. UserDefinedType.csproj", "{37FCB42C-8313-4934-B45D-116E2BFA77A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Class", "07. Class\07. Class.csproj", "{76A60344-BF03-4E65-84A0-A2DD685B81EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{37FCB42C-8313-4934-B45D-116E2BFA77A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37FCB42C-8313-4934-B45D-116E2BFA77A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37FCB42C-8313-4934-B45D-116E2BFA77A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A60344-BF03-4E65-84A0-A2DD685B81EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A60344-BF03-4E65-84A0-A2DD685B81EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A60344-BF03-4E65-84A0-A2DD685B81EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A60344-BF03-4E65-84A0-A2DD685B81EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
